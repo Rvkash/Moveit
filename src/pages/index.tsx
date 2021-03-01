@@ -8,6 +8,7 @@ import Head from 'next/head'
 import {ExperienceBar} from '../components/ExperienceBar'
 
 import styles from '../styles/pages/Home.module.css'
+import { CountdownProvider } from '../contexts/CountdownContext'
 
 
 export default function Home() {
@@ -16,7 +17,9 @@ export default function Home() {
         <Head>
           <title>Início | Move.it</title>
         </Head>
+
           <ExperienceBar />
+        <CountdownProvider>
           <section>
             <div>
               <Profile />
@@ -27,6 +30,7 @@ export default function Home() {
               <ChallengeBox />
             </div>
           </section>
+        </CountdownProvider>
         </div>
       )
     }
