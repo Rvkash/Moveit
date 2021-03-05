@@ -6,7 +6,6 @@
 
 Move it, um app com cronômetro para tarefas e desafios com sistema de level.
 
-Esse projeto foi desenvolvido durante a semana NextLevelWeek da [Rocketseat](https://github.com/Rocketseat)
 
 ## 🌎 Web
 
