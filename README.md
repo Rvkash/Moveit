@@ -4,7 +4,7 @@
 
 ## 🏃‍♂️ Move it
 
-Move it, um projeto criado durante a NLW#05, um app com cronômetro para tarefas e desafios com sistema de "Level"
+Move it, um projeto criado durante a NLW#04, um app com cronômetro para tarefas e desafios com sistema de "Level"
 
 Esse projeto foi desenvolvido durante a semana NextLevelWeek da [Rocketseat](https://github.com/Rocketseat)
 
