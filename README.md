@@ -4,7 +4,7 @@
 
 ## 🏃‍♂️ Move it
 
-Move it, um app com cronômetro para tarefas e desafios com sistema de level.
+Move it, um web app com cronômetro para tarefas e desafios com sistema de level.
 
 
 ## 🌎 Web
